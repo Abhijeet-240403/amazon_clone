@@ -1,2 +1,2 @@
-# amazon_clone
+# amazona
  built a similar website to amazon  
